@@ -1,10 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:060a0f,50:00e5ff,100:ff00e6&height=240&section=header&text=GILBERTO%20CAMACHO&fontSize=68&animation=fadeIn&fontAlignY=45&fontColor=00e5ff&stroke=ff00e6&strokeWidth=2&desc=Software%20Engineer%20%7C%20AI%20%26%20Backend%20Explorer&descAlignY=65&descSize=18&descColor=c9e8ff" />
 
-<br/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=16&pause=900&color=00E5FF&center=true&vCenter=true&width=580&height=36&lines=%3E+Efficiency+Booster+%40+Heineken+Mexico;%3E+AI+Agent+%26+RAG+Systems+Developer;%3E+Cloud+Infrastructure+Engineer+%40+OCI;%3E+Data+Engineer+%7C+30GB%2B+Pipelines+Processed" />
 
 <br/>
 
@@ -103,9 +99,6 @@ class GilbertoCamacho:
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Fanoba&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&border_color=00e5ff&title_color=00e5ff&icon_color=ff00e6&text_color=c9d1d9&bg_color=0d1117" />
-&nbsp;
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fanoba&layout=compact&theme=midnight-purple&hide=html,css&border_color=00e5ff&title_color=00e5ff&text_color=c9d1d9&bg_color=0d1117" />
 
 <br/><br/>
 
@@ -119,7 +112,6 @@ class GilbertoCamacho:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Fanoba&theme=onestar&column=4&margin-w=12&margin-h=12&no-bg=true" />
 
 </div>
 
