@@ -20,7 +20,7 @@
 ╔══════════════════════════════════════════════════════════════════╗
 ║  > whoami                                                        ║
 ║                                                                  ║
-║    Computer Science Engineer  //  Monterrey, MX                  ║
+║    Computer Science Engineer             ║
 ║    Bridging complex data with high-impact business decisions      ║
 ║    via Artificial Intelligence and Backend architectures.        ║
 ╚══════════════════════════════════════════════════════════════════╝
